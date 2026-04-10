@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=victorvbello&count_private=true&show_icons=true" alt="victorvbello | Stats" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorvbello&layout=compact&hide=html,css" alt="victorvbello | top Langs"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=victorvbello&count_private=true&show_icons=true" alt="victorvbello | Stats" /> 
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=victorvbello&layout=compact&hide=html,css" alt="victorvbello | top Langs"/>
